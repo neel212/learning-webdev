@@ -1,0 +1,21 @@
+#foo {background-image: url('my.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+   
+}
+.baz {
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+header>content{
+    background-color: crimson;
+}
+.container {
+    background-color: blue;
+    background-image: url('code.jpg');
+    background-size: cover;
+}
+h5 {
+    color:white;
+}
