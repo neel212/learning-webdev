@@ -12,9 +12,9 @@ header>content{
     background-color: crimson;
 }
 .container {
-    background-color: blue;
+    background-repeat: no-repeat;
     background-image: url('code.jpg');
-    background-size: cover;
+    background-size: 100% 100%;
 }
 h5 {
     color:white;
