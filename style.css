@@ -1,21 +1,29 @@
-#foo {background-image: url('my.jpg');
+div{
+    background-image: url("my.jpg");
     background-repeat: no-repeat;
-    background-size: 100% 100%;
-   
+    background-position: center;
+    background-size: cover;
 }
-.baz {
+div>h3 {
     color: white;
-    padding: 10px;
     text-align: center;
 }
-header>content{
-    background-color: crimson;
+#container {
+    background-image: none;
+    display: flex;
+    background-color: dodgerblue;
 }
-.container {
-    background-repeat: no-repeat;
-    background-image: url('code.jpg');
-    background-size: 100% 100%;
+#container > div {
+    background-image: none;
+    background-color: #f1f1f1;
+    margin: 20px;
+    font-size: 20px;
+    padding: 20px;
+    width: 200px;
 }
-h5 {
-    color:white;
+.baz {
+    background-image: none;
+}
+footer{
+    background-image: none;
 }
