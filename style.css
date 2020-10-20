@@ -9,6 +9,7 @@ div>h3 {
     text-align: center;
 }
 #container {
+    text-overflow: ellipsis;
     background-image: none;
     display: flex;
     background-color: dodgerblue;
