@@ -25,6 +25,9 @@ div>h3 {
     margin: 10px;
     padding: 20px;
 }
+form>div{
+    background-image: none;
+}
 .baz {
     background-image: none;
 }
