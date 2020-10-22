@@ -21,6 +21,7 @@ div>h3 {
     background-color: #f1f1f1;
     margin: 10px;
     padding: 20px;
+    width: 200px;
 }
 .baz {
     background-image: none;
