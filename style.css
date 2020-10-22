@@ -4,12 +4,15 @@ div{
     background-position: center;
     background-size: cover;
 }
-li>p {
+.font-weight-normal{
     color: white;
 }
 div>h3 {
     color: white;
     text-align: center;
+}
+.alert{
+    background-image: none;
 }
 .d-flex {
     background-image: none;
