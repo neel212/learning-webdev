@@ -4,6 +4,11 @@ div{
     background-position: center;
     background-size: cover;
 }
+div>h1{
+    color: red;
+    text-align: center;
+}
+
 .font-weight-bold{
     color: white;
     padding: 20px;
