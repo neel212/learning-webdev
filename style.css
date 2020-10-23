@@ -1,11 +1,4 @@
-div{
-    background-image: url("my.jpg");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-}
-div>h1{
-    color: red;
+.carousel-caption> h3{
     text-align: center;
 }
 
@@ -13,10 +6,7 @@ div>h1{
     color: white;
     padding: 20px;
 }
-div>h3 {
-    color: white;
-    text-align: center;
-}
+
 .alert{
     background-image: none;
 }
